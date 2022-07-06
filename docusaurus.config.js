@@ -9,7 +9,7 @@ const config = {
   title: 'imToken Wallet SDK',
   tagline: 'imToken Wallet SDK for DApp integration',
   url: 'https://github.com/zengbing15',
-  baseUrl: '/',
+  baseUrl: '/imtoken-wallet-sdk-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
