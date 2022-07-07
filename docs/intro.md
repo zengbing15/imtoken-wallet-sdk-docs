@@ -23,9 +23,13 @@ imToken Wallet SDK is fully compatible with [MetaMask](https://metamask.io/), wh
 
 ### WalletConnect Integration
 
+### Preload URL Optimization
+
 ### Deeplink
 
 ### Internationalization
+
+### Security
 
 ## Developement Guide
 
@@ -36,3 +40,7 @@ imToken Wallet SDK is fully compatible with [MetaMask](https://metamask.io/), wh
 ### How to debug
 
 ### demo for SDK showcase
+
+### Compatibility
+
+### Break Changes
