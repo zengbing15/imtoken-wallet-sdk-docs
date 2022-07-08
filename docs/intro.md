@@ -9,7 +9,25 @@ sidebar_position: 1
 
 imToken Wallet SDK is fully compatible with [MetaMask](https://metamask.io/), while also providing public APIs to help DApp developers to integrate with your DApp.
 
-## Functions
+## Why imToken Wallet
+
+## Content Structure
+
+- Functions
+  - Provider
+  - API
+  - WalletConnect Integration
+  - Preload URL Optimization
+  - Deeplink
+  - Internationalization
+  - Security
+- Development Guide
+  - Integrate with imToken Wallet directly
+  - Integrate with WalletConnect for using imToken Wallet
+  - How to debug
+  - demo for SDK showcase
+  - Compatibility
+  - Break Changes
 
 ### Provider
 
