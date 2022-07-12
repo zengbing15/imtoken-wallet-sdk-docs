@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'imToken Wallet SDK',
-  tagline: 'imToken Wallet SDK for DApp integration',
+  title: 'imToken DApp Browser SDK',
+  tagline: 'imToken DApp Browser SDK for DApp integration',
   url: 'https://github.com/zengbing15',
-  baseUrl: '/imtoken-wallet-sdk-docs/',
+  baseUrl: '/webview-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'zengbing15', // Usually your GitHub org/user name.
-  projectName: 'imtoken-wallet-sdk-docs', // Usually your repo name.
+  projectName: 'webview-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -65,7 +65,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'imToken Wallet SDK',
+        title: 'imToken DApp Browser SDK',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -79,7 +79,7 @@ const config = {
           },
           /*{to: '/blog', label: 'Blog', position: 'left'},*/
           {
-            href: 'https://github.com/zengbing15/imtoken-wallet-sdk-docs',
+            href: 'https://github.com/zengbing15/webview-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Commit issues',
-                to: 'https://github.com/zengbing15/imtoken-wallet-sdk-docs/issues',
+                to: 'https://github.com/zengbing15/webview-docs/issues',
               },
             ],
           },
@@ -124,7 +124,7 @@ const config = {
               },
               */
               {
-                label: 'imToken Wallet SDK GitHub',
+                label: 'imToken DApp Browser SDK GitHub',
                 href: 'https://github.com/zengbing15/webview',
               },
             ],
