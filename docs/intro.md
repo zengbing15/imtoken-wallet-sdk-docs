@@ -7,9 +7,9 @@ sidebar_position: 1
 
 ## Overview
 
-imToken Wallet SDK is fully compatible with [MetaMask](https://metamask.io/), while also providing public APIs to help DApp developers to integrate with your DApp.
+[imToken DApp Browser](https://token.im/dapp) can be used to interact with any DApps.
 
-## Why imToken Wallet
+Webview, which is imToken DApp Browser SDK ([github repo](https://github.com/zengbing15/webview)) is a useful tool for DApp developers to integrate with imToken DApp Browser and also fully optimized for DApp's special characteristics,so users can enjoy DApps through imToken DApp Browser.
 
 ## Content Structure
 
@@ -19,46 +19,11 @@ imToken Wallet SDK is fully compatible with [MetaMask](https://metamask.io/), wh
   - WalletConnect Integration
   - Preload URL Optimization
   - Deeplink
-  - Internationalization
+  - i18n
   - Security
 - Development Guide
-  - Integrate with imToken Wallet directly
-  - Integrate with WalletConnect for using imToken Wallet
+  - Integrate with imToken DApp Browser
   - How to debug
-  - demo for SDK showcase
+  - demo for showcase
   - Compatibility
-  - Break Changes
-
-### Provider
-
-### APIs
-
-#### detect imToken
-
-#### callAPI
-
-#### API info
-
-### WalletConnect Integration
-
-### Preload URL Optimization
-
-### Deeplink
-
-### Internationalization
-
-### Security
-
-## Developement Guide
-
-### Integrate with imToken Wallet directly
-
-### Integrate with WalletConnect for using imToken Wallet
-
-### How to debug
-
-### demo for SDK showcase
-
-### Compatibility
-
-### Break Changes
+  - Breaking Change
