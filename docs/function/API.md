@@ -4,6 +4,9 @@ sidebar_position: 2
 
 # API
 
+The function of imToken Webview API includes obtain the language environment, common native UI, route navigation, scan QR codes, etc.
+
+
 ## detect imToken DApp browser
 
 Detect imToken DApp browser by `!!window.imToken` or `window.ethereum.isImToken`, it will return true if the current browser is imToken DApp browser.
