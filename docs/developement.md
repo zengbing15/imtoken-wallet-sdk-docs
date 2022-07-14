@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Integrate with imToken DApp Browser
 
-With the imToken Webview `@consenlabs-fe/webview`, the DApp side can use features that built in the imToken DApp Browser, such as integrating with imToken Wallet DApp Browser or adapting the DApp application. You can refer to [API](webview-docs/function/API) for more usage.
+With the imToken Webview `@consenlabs-fe/webview`, the DApp side can use features that built in the imToken DApp Browser, such as integrating with imToken Wallet DApp Browser or adapting the DApp application. You can refer to [API](/function/API) for more usage.
 
 ### System Requirements
 
